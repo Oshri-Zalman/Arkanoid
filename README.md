@@ -48,4 +48,4 @@ What makes this project special isn't just the game, but the engine behind it. T
 ### Installation & Execution
 1. Clone the repository:
    ```bash
-   git clone(https://github.com/Oshri-Zalman/Arkanoid-Java.git)
+   git clone(https://github.com/Oshri-Zalman/Arkanoid.git)
